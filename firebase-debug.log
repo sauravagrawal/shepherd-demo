@@ -1,0 +1,22 @@
+[debug] [2021-05-24T22:52:16.804Z] ----------------------------------------------------------------------
+[debug] [2021-05-24T22:52:16.806Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\saurav.kumar\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-24T22:52:16.807Z] CLI Version:   9.11.0
+[debug] [2021-05-24T22:52:16.807Z] Platform:      win32
+[debug] [2021-05-24T22:52:16.807Z] Node Version:  v14.17.0
+[debug] [2021-05-24T22:52:16.811Z] Time:          Tue May 25 2021 04:22:16 GMT+0530 (India Standard Time)
+[debug] [2021-05-24T22:52:16.811Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-24T22:52:16.819Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-05-24T22:52:16.852Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-24T22:52:16.852Z] > authorizing via signed-in user (saurav.agrawal27@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\saurav.kumar\Documents\WebSite\shepherd-demo-project
+

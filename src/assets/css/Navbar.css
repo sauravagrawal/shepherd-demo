@@ -1,0 +1,65 @@
+.side-menu{
+    width: 70px;
+    background: white;
+    height: 100%;
+    float: left;
+    padding: 10px;
+  }
+  
+  .logo{
+    display: block;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ccc;
+  height: 75px;
+  }
+  .menu-item{
+    height: 30px;
+    margin-top: 30px;
+  }
+  .menu-item a{
+    width: 50px;
+    text-align: center;
+    padding: 13px 13px;
+    background: #fff;
+    border-radius: 15px;
+    color:#999
+  }
+  .menu-item a:hover{
+    width: 50px;
+    text-align: center;
+    padding: 13px 13px;
+    color: #000;
+    background: #EAEAEA;
+    border-radius: 15px;
+  }
+  a.active{
+    width: 50px;
+    text-align: center;
+    padding: 13px 13px;
+    color: #000;
+    background: #EAEAEA;
+    border-radius: 15px;
+  }
+
+  a.active {
+    width: 50px;
+    text-align: center;
+    padding: 13px 13px;
+    color: #000;
+    background: #EAEAEA;
+    border-radius: 15px;
+  }
+  
+  .usericon{
+  display: block;
+  position: fixed;
+  bottom: 10px;
+  border-top: 2px solid #ccc;
+  }
+  .usericon img{
+    width: 50px;
+    border-radius: 50%;
+    border: 5px solid #00E6A6;
+    margin-top: 15px;
+   
+  }
